@@ -1,0 +1,1 @@
+alter table flyway.persons add column surname varchar(25);
